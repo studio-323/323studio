@@ -212,10 +212,10 @@ img{
 
           .child{
             height: 100%;
-            width: 90%;
+            width: 100%;
             display: inline-block;
             margin-right: 2px;     /* Spacing between items */
-            scroll-snap-align: center;  /*------Scroll_Snap------*/
+            scroll-snap-align: start;  /*------Scroll_Snap------*/
 
 
 
@@ -593,22 +593,7 @@ img{
           width: 100%;
           height: 74vh;
         }
-
-        .swipe-here{
-          width: 100%;
-          height: 200px;
-          background-color: #00C000;
-        }
       }
-    }
-
-    .more-indicator{
-      width: 100%;
-      height: 100px;
-      position: absolute;
-      z-index: 3;
-      background-color: #00C000;
-      bottom: 0;
     }
 
     .order-information{
