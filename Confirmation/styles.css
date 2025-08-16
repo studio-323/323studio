@@ -125,7 +125,7 @@ img{
 /*------DESKTOP------*/
 
 .desktop{
-  background-color: #EDEDED;
+  background-color: #edf5fa;
   width: 100%;
   height: 100vh;
   position: fixed;
@@ -142,7 +142,7 @@ img{
     width: 100%;
     height: auto;
     display: flex;
-    background-color: white;
+    background-color: #edf5fa;
     border-bottom: 1px solid #D9D9D9;
     box-sizing: border-box;
     padding-top: 18px;
@@ -185,7 +185,7 @@ img{
   .container{
     width: 22%;
     height: 100vh;
-    background-color: #EDEDED;
+    background-color: #edf5fa;
     box-sizing: border-box;
     padding-top: 180px;
 
@@ -317,7 +317,7 @@ img{
       display: flex;
       justify-content: center;
       align-self: center;
-      background-color: black;
+      background-color: #00457f;
       margin-top: 8px;
       box-sizing: border-box;
       padding-top: 14px;
@@ -486,7 +486,7 @@ img{
       width: 100%;
       height: auto;
       display: flex;
-      background-color: white;
+      background-color: #edf5fa;
       border-bottom: 1px solid #D9D9D9;
       box-sizing: border-box;
       padding-top: 18px;
@@ -511,7 +511,7 @@ img{
     .container{
       width: 100%;
       height: 100vh;
-      background-color: #EDEDED;
+      background-color: #edf5fa;
       box-sizing: border-box;
       padding-top: 140px;
       padding-left: 36px;
@@ -645,7 +645,7 @@ img{
         display: flex;
         justify-content: center;
         align-self: center;
-        background-color: black;
+        background-color: #00457f;
         margin-top: 8px;
         box-sizing: border-box;
         padding-top: 14px;
